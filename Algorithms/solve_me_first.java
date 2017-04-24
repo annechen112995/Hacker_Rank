@@ -5,8 +5,8 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
-
+    //the solveMeFirst function so that it returns the sum of 
+    //two integers read from stdin.
     static int solveMeFirst(int a, int b) {
       return a + b;
    }
